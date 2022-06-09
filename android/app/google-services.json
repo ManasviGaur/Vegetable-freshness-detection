@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903156035475",
+    "project_id": "vegetable-freshness-detector",
+    "storage_bucket": "vegetable-freshness-detector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903156035475:android:d26bfd81fb483ab6350266",
+        "android_client_info": {
+          "package_name": "com.example.vegetable_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903156035475-i3vslbgblbe47ggc36blvhhedjksve50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx30KbxRxAaOvaY0XiND3zK-yiYc8gteg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903156035475-i3vslbgblbe47ggc36blvhhedjksve50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
