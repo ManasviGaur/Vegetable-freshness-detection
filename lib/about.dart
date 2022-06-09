@@ -85,6 +85,14 @@ class _AboutUsState extends State<AboutUs> {
                       height: 20.0,
                     ),
                     Text(
+                      "Prof. S. Indu",
+                      style: TextStyle(
+                        fontFamily: "Poppins",
+                        fontSize: 25.0,
+                        color: Colors.blue,
+                      ),
+                    ),
+                    Text(
                       "Siddharth Basoya",
                       style: TextStyle(
                         fontFamily: "Poppins",
