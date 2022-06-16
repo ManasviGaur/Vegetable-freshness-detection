@@ -27,7 +27,7 @@ class _LoginPageState extends State<LoginPage> {
               fontWeight: FontWeight.bold,
             ),
           ),
-          backgroundColor: Colors.black,
+          backgroundColor: Colors.cyan.shade600,
           centerTitle: true,
         ),
         backgroundColor: Colors.white,

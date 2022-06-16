@@ -58,7 +58,7 @@ class _MyAccountState extends State<MyAccount> {
           title: const Text(
             'My Account',
             style: TextStyle(
-              fontFamily: 'Comfortaa',
+              fontFamily: 'Montserrat',
               color: Colors.white,
               fontSize: 25.0,
             ),

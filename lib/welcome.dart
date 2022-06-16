@@ -45,7 +45,7 @@ class StartState extends State<Welcomescreen> {
                 style: TextStyle(
                   fontSize: 25,
                   fontWeight: FontWeight.bold,
-                  fontFamily: 'Comfortaa',
+                  fontFamily: 'Montserrat',
                   color: Colors.black,
                 ),
               ),

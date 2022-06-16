@@ -97,7 +97,7 @@ class _HomePageState extends State<HomePage> {
           title: const Text(
             'Freshness Detection',
             style: TextStyle(
-              fontFamily: 'Comfortaa',
+              fontFamily: 'Montserrat',
               color: Colors.white,
               fontSize: 30.0,
             ),
@@ -177,7 +177,7 @@ class _HomePageState extends State<HomePage> {
                       "Choose image",
                     ),
                     style: ElevatedButton.styleFrom(
-                      primary: Colors.blue,
+                      primary: Colors.lightGreenAccent.shade400,
                       minimumSize: const Size(250, 60.0),
                       side: const BorderSide(width: 2.0, color: Colors.white),
                       shape: RoundedRectangleBorder(
@@ -185,10 +185,10 @@ class _HomePageState extends State<HomePage> {
                       ),
                       textStyle: const TextStyle(
                         fontSize: 17.0,
-                        fontFamily: "Comfortaa",
+                        fontFamily: "Montserrat",
                         fontStyle: FontStyle.normal,
                         fontWeight: FontWeight.bold,
-                        color: Colors.black,
+                        color: Colors.lightGreenAccent,
                       ),
                     ),
                     onPressed: galleryImage,

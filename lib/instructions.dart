@@ -37,7 +37,7 @@ class _InstructionsState extends State<Instructions> {
             'Instructions',
             style: TextStyle(
               fontSize: 25.0,
-              fontFamily: "Comfortaa",
+              fontFamily: "Montserrat",
               color: Colors.white,
             ),
           ),
@@ -54,7 +54,7 @@ class _InstructionsState extends State<Instructions> {
                       Text(
                         "How to use this app effectively",
                         style: TextStyle(
-                          fontFamily: "Comfortaa",
+                          fontFamily: "Montserrat",
                           fontSize: 28.0,
                           fontWeight: FontWeight.bold,
                           color: Colors.black,
@@ -66,7 +66,7 @@ class _InstructionsState extends State<Instructions> {
                       Text(
                         "Important: As of now the app can only detect the quality of following 6 vegetables \n\n 1) Tomato \n 2) Potato \n 3) Onion \n 4) Capsicum \n 5) Carrot \n 6) Brinjal \n",
                         style: TextStyle(
-                          fontFamily: "Comfortaa",
+                          fontFamily: "Montserrat",
                           fontSize: 22.0,
                           color: Colors.red,
                           fontWeight: FontWeight.w500,
@@ -75,7 +75,7 @@ class _InstructionsState extends State<Instructions> {
                       Text(
                         "Please use the image of one of these 6 vegetables only. The app will not detect the quality of any other vegetable.\n",
                         style: TextStyle(
-                          fontFamily: "Comfortaa",
+                          fontFamily: "Montserrat",
                           fontSize: 22.0,
                           color: Colors.black,
                           fontWeight: FontWeight.w500,
@@ -84,7 +84,7 @@ class _InstructionsState extends State<Instructions> {
                       Text(
                         "Please follow the instructions below to check the quality of vegetables",
                         style: TextStyle(
-                          fontFamily: "Comfortaa",
+                          fontFamily: "Montserrat",
                           fontSize: 22.0,
                           color: Colors.black,
                           fontWeight: FontWeight.w500,
@@ -96,7 +96,7 @@ class _InstructionsState extends State<Instructions> {
                       Text(
                         "1) Register using your email id if you haven't already. \n\n2) Login to the app using your registered email id. \n\n3) Click on the start button to get started. \n\n4) Click a clear picture of the vegetable in proper lighting and select that image from your gallery using the file icon to check the quality of that vegetable.",
                         style: TextStyle(
-                          fontFamily: "Comfortaa",
+                          fontFamily: "Montserrat",
                           fontSize: 22.0,
                           color: Colors.black,
                           fontWeight: FontWeight.w500,
@@ -108,7 +108,7 @@ class _InstructionsState extends State<Instructions> {
                       Text(
                         "Note: You can also use this app without any signup or login.\n\nJust click on Let's Start button below and click images.",
                         style: TextStyle(
-                          fontFamily: "Comfortaa",
+                          fontFamily: "Montserrat",
                           fontSize: 22.0,
                           color: Colors.black,
                           fontWeight: FontWeight.w500,
@@ -144,7 +144,7 @@ class _InstructionsState extends State<Instructions> {
                   child: const Text(
                     'Let\' s Start',
                     style: TextStyle(
-                      fontFamily: 'Comfortaa',
+                      fontFamily: 'Montserrat',
                       color: Colors.white,
                       fontSize: 25.0,
                     ),
